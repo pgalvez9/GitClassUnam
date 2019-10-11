@@ -1,0 +1,4 @@
+git status -> Visualiza le realizado dentro del Git.
+git add . -> Agrega los cambios realizados de esa misma direccion.
+git init -> Inicializa git con una carpeta .git
+git --help -> Muestra las opciones e instrucciones del git con su descripcion.
