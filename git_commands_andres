@@ -1,0 +1,5 @@
+git init  ->  crea la carpeta .git para comenzar el tracking de archivos
+git add <nombre>   ->  hace que el archivo nombre sea trackeado 
+git commit -m "comment" -> actualiza el archivo con el comentario comment
+git checkout <ubicación>  -> mueve tu head a la ubicación pedida
+un cambio 
