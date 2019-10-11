@@ -1,0 +1,4 @@
+git init -->Inicia Git
+git checkout name  --> Cambia el head a el commit indicado 
+git commit --> Actualiza los archivos con las modificaciones añadidas
+got log  --> Muestra los cambios que se han hecho y las ramas 
