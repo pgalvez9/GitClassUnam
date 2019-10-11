@@ -2,3 +2,4 @@ git init initializes git in order to track  the file directory
 git status to review what is the status , what can I do or how can I exit
 git bisect is used to know where an issue is
 git add . update the file in the branch
+Hola mundo
