@@ -2,7 +2,7 @@
 
 
 
-## Tres temas mas interesantes de mi carrera
+## Tres temas interesantes de mi carrera
 
 1.PLCS
 
