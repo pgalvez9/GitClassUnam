@@ -2,7 +2,7 @@
 
 
 
-## Tres temas interesantes de mi carrera
+## Three interestings topics about my career
 
 1.PLCS
 
@@ -11,5 +11,5 @@
   
 3.*Neumática*
 
-\*literal asterisks\*
+\*tengo unas dudas\*
 
