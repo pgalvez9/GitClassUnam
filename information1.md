@@ -7,7 +7,7 @@
 1.PLCS
 
 2.Robots
-  *Seriales
+  *Serials
   
 3.*Neumática*
 
